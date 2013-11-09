@@ -1,4 +1,4 @@
-ShooterGame
+AndroidController
 ===========
 
-shooter game, using android controller
+the android motion controller
